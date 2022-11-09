@@ -31,14 +31,14 @@ public class EmployeeDetails {
 		e.Age=20;
 		e.PhoneNumber="987654321";
 		e.Address="Assam";
-		e.Salary=50000;
+		e.Salary=60000;
 		e.specialization="java developer";
 		Manager m=new Manager();
 		m.Name="Lachu";
-		m.Age=25;
+		m.Age=23;
 		m.PhoneNumber="897563421";
 		m.Address="kerala";
-		m.Salary=90000;
+		m.Salary=80000;
 		m.department="IT";
 		
 		System.out.println("Employee Name is:"+e.Name);
